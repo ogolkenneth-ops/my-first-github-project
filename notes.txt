@@ -1,1 +1,16 @@
 Learning GitHub step by step
+
+DAY 1 – Git & GitHub Basics
+
+- Learned what Git is (version control)
+- Learned what GitHub is (online repo)
+- Created my first repository
+- Learned git add, commit, push
+- Fixed file extension mistakes (.txt vs .docx)
+
+Commands learned:
+- git status
+- git add .
+- git commit -m "message"
+- git push
+
